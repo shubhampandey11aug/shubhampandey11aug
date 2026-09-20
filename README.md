@@ -2,7 +2,7 @@
 
 ### Renewable Energy Professional | Data Analytics | Data Engineering | Microsoft Fabric | AI
 
-I’m an Electrical Engineer and Renewable Energy professional with **14+ years of experience across renewable energy operations, energy analytics, open access, group captive arrangements, forecasting & scheduling, and energy market operations**.
+I’m an Electrical Engineer and Renewable Energy professional with **12+ years of experience across renewable energy operations, energy analytics, open access, group captive arrangements, forecasting & scheduling, and energy market operations**.
 
 Over the years, I’ve worked at the intersection of **energy, data, analytics, and business operations**. I’m now expanding this experience into **Data Engineering, Microsoft Fabric, Databricks, AI, Generative AI, and Agentic AI**.
 
@@ -253,6 +253,6 @@ https://github.com/shubhampandey11aug
 
 ### ⚡ From Energy to Data & AI
 
-> **Combining 14+ years of renewable energy expertise with modern Data Engineering, Cloud, and AI technologies.**
+> **Combining 12+ years of renewable energy expertise with modern Data Engineering, Cloud, and AI technologies.**
 
 ⭐ Feel free to explore my repositories and follow my journey from **Energy Analytics → Data Engineering → AI Engineering**.
