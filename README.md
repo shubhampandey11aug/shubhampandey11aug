@@ -1,8 +1,8 @@
 # Hi, I'm Shubham Pandey 👋
 
-### Renewable Energy Professional | Data Analytics | Data Engineering | Microsoft Fabric | AI
+### Renewable Energy Professional | Data Analytics | Data Engineering | Microsoft Fabric | Databricks | AI
 
-I’m an Electrical Engineer and Renewable Energy professional with **12+ years of experience across renewable energy operations, energy analytics, open access, group captive arrangements, forecasting & scheduling, and energy market operations**.
+I’m an Electrical Engineer and Renewable Energy professional with **12+ years of experience across renewable energy operations, energy analytics, open access, C&I , forecasting & scheduling, and energy market operations**.
 
 Over the years, I’ve worked at the intersection of **energy, data, analytics, and business operations**. I’m now expanding this experience into **Data Engineering, Microsoft Fabric, Databricks, AI, Generative AI, and Agentic AI**.
 
@@ -95,7 +95,7 @@ Analytics solutions for monitoring and analysing renewable energy generation and
 
 ### 🔹 Energy Allocation & Open Access Analytics
 
-Developed analytical workflows for C&I renewable energy operations covering energy allocation, captive consumption and open access settlement.
+Developed analytical workflows for DSM tracking, Power trading,C&I renewable energy operations covering energy allocation, captive consumption and open access settlement.
 
 **Key areas:**
 
@@ -107,6 +107,8 @@ Developed analytical workflows for C&I renewable energy operations covering ener
 * Transmission & wheeling losses
 * Captive consumption
 * Cost optimization
+* Assset Mangament
+* DSM Optimization
 
 **Tech:**
 `Power BI` `SQL` `Excel` `Power Query`
