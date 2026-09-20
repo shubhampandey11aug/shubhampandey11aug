@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**shubhampandey11aug/shubhampandey11aug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Hi, I'm Shubham Pandey 👋
 
 ### Renewable Energy Professional | Data Analytics | Data Engineering | Microsoft Fabric | AI
